@@ -25,7 +25,7 @@ const CovidSummary = (props) => {
               }
             </span>
           </Cards>
-          <Cards>
+          <Cards style={{ color: "blue" }}>
             <span>Total Recovered</span>
             <br />
             <span>
